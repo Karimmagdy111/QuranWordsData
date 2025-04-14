@@ -1,0 +1,2 @@
+# QuranWordsData
+Quran Words Coordinates
